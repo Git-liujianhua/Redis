@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Seckill" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Jedis_redisdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/redis_springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/Image/pom.xml" />
+        <option value="$PROJECT_DIR$/Seckill/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
