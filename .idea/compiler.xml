@@ -19,11 +19,13 @@
       <module name="redis_springboot" target="1.8" />
       <module name="Seckill" target="1.8" />
       <module name="Test" target="1.8" />
+      <module name="untitled" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="redis_springboot" options="-parameters" />
+      <module name="untitled" options="-parameters" />
     </option>
   </component>
 </project>
